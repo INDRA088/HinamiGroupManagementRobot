@@ -17,7 +17,7 @@ yuriko4 = "https://telegra.ph/file/be79f8ea71eb69a8f8515.jpg"
 @register(pattern="/myinfo")
 async def proboyx(event):
   button = [[custom.Button.inline("CHECK",data="information")]]
-  on = await aasf.send_message(event.chat, f"**❦ Hᴇʏ {(event.sender.first_name)}**\n\n**❦ I Aᴍ [Yuriko](https://t.me/YurikoRobot)**\n**❦ I Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ [DeeCoDeBots](t.me/DeeCoDeBots)**", file=yuriko1, buttons=button)
+  on = await aasf.send_message(event.chat, f"**❦ Hᴇʏ {(event.sender.first_name)}**\n\n**❦ I Aᴍ [Hinami](https://t.me/HinamiChanRobot)**\n**❦ I Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ [DeeCoDeBots](t.me/DeeCoDeBots)**", file=yuriko1, buttons=button)
 
   await asyncio.sleep(edit_time)
   ok = await aasf.edit_message(event.chat_id, on, file=yuriko2, buttons=button) 
@@ -45,7 +45,7 @@ async def callback_query_handler(event):
   try:
     boy = event.sender_id
     PRO = await bot.get_entity(boy)
-    YURIKO = "YOUR DETAILS BY YURIKO \n"
+    YURIKO = "YOUR DETAILS BY Hinami \n"
     YURIKO += f"FIRST NAME : {PRO.first_name} \n"
     YURIKO += f"LAST NAME : {PRO.last_name}\n"
     YURIKO += f"YOU BOT : {PRO.bot} \n"
