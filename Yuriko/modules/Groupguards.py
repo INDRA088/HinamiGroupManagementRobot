@@ -240,4 +240,4 @@ __help__ = """
  - /profanity <code>[on/off]</code>: Enable|Disable slag word cleaning
  
 """
-__mod_name__ = "Group ian"
+__mod_name__ = "GroupGuard"
