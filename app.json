@@ -1,5 +1,5 @@
 {
-      "name": "Yuriko Robot",
+      "name": "Hinami Robot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/1495fab0586fe05160204.jpg",  
-   "repository": "https://github.com/TeamDeeCode/yuriko",
+   "repository": "https://github.com/INDRA088/HinamiGroupManagementRobot",
    "addons": [
           {
          "options": {
