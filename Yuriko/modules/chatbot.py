@@ -144,7 +144,7 @@ __help__ = """
  
 ✗ /Chatbot - `Shows chatbot control panel`
   
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: ᴛᴇᴀᴍ ɪɴᴅʀᴀ!*
 """
 
 __mod_name__ = "CʜᴀᴛBᴏᴛ"
