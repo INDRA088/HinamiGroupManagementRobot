@@ -111,7 +111,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="Sᴜᴍᴍᴏɴ Mᴇ", url="http://t.me/YurikoRobot?startgroup=true"),
+        InlineKeyboardButton(text="🌸Add Hinami to your group🌸", url="http://t.me/HinamiChanRobot?startgroup=true"),
     ],
 ]
 
