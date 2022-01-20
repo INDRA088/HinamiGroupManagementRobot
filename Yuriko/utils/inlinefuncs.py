@@ -122,7 +122,7 @@ async def alive_function(answers):
     )
 
     msg = f"""
-**[Yuriko Robot ❤️](https://t.me/decodesupport):**
+**[Hinami Chan ❤️](https://t.me/Hinami_Support):**
 **MainBot:** `{bot_state}`
 **UserBot:** `{ubot_state}`
 **Python:** `{pyver.split()[0]}`
@@ -135,7 +135,7 @@ async def alive_function(answers):
         InlineQueryResultArticle(
             title="Alive",
             description="Check Bot's Stats",
-            thumb_url="https://telegra.ph/file/dad7863c0db4ac921982d.jpg",
+            thumb_url="http://telegra.ph//file/ed42d24647c75e822ea2d.jpg",
             input_message_content=InputTextMessageContent(
                 msg, disable_web_page_preview=True
             ),
