@@ -12,7 +12,7 @@
 
 # ❤️ Support
 <a href="https://t.me/HINAMIUPDATES"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="t.me/Hinami_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Hinami_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 ## ✨ Heroku Deploy ✨
