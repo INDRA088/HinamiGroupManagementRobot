@@ -16,11 +16,11 @@ from telethon.tl.types import ChannelParticipantsAdmins
 
 edit_time = 5
 """ =======================HINAMI====================== """
-file1 = "https://telegra.ph/file/1ad7188c8390b5c36b9a8.jpg"
-file2 = "https://telegra.ph/file/73fc670e1dc78d1857b67.jpg"
-file3 = "https://telegra.ph/file/4b29739e7fd46b2111e55.jpg"
-file4 = "https://telegra.ph/file/956b7a50ec1f0a9802b8b.jpg"
-file5 = "https://telegra.ph/file/2fdff4fc6f3e015eb9a51.jpg"
+file1 = "http://telegra.ph//file/698bc18f001f3ce8df98f.jpg"
+file2 = "http://telegra.ph//file/698bc18f001f3ce8df98f.jpg"
+file3 = "http://telegra.ph//file/698bc18f001f3ce8df98f.jpg"
+file4 = "http://telegra.ph//file/698bc18f001f3ce8df98f.jpg"
+file5 = "http://telegra.ph//file/698bc18f001f3ce8df98f.jpg"
 """ =======================HINAMI====================== """
 
 BUTTON = [[Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Hinami_Support"), Button.url("ᴜᴘᴅᴀᴛᴇs", "https://t.me/HINAMIUPDATES")]]
