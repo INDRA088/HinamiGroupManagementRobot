@@ -91,6 +91,8 @@ PM_START_TEXT = """
 × `{}` *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* `{}` *Cʜᴀᴛꜱ.*
 ────────────────────────
 ✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ INDRA!*        
+
+
 (http://telegra.ph//file/698bc18f001f3ce8df98f.jpg) 
 """
 
