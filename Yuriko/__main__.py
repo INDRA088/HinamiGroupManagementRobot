@@ -90,7 +90,8 @@ PM_START_TEXT = """
 × *Uᴘᴛɪᴍᴇ:* `{}`
 × `{}` *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* `{}` *Cʜᴀᴛꜱ.*
 ────────────────────────
-✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ INDRA!*        (http://telegra.ph//file/698bc18f001f3ce8df98f.jpg) 
+✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ INDRA!*        
+(http://telegra.ph//file/698bc18f001f3ce8df98f.jpg) 
 """
 
 buttons = [
