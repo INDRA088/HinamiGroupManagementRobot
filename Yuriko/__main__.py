@@ -85,7 +85,7 @@ PM_START_TEXT = """
 *👋 Hello {} !*
 
 ✗ *I'Aᴍ Aɴ Aɴɪᴍᴇ-Tʜᴇᴍᴇ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*
-✗ *Aᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ  Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ  I Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ  Fᴇᴀᴛᴜʀᴇꜱ and Mintained by @DIPUID and Owner @DARK_LEGEND088 and @DIPUID!*
+✗ *Aᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ  Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ  I Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ  Fᴇᴀᴛᴜʀᴇꜱ and Mintained by @DIPUID and Owner @DARK_LEGEND088 !*
 ────────────────────────
 × *Uᴘᴛɪᴍᴇ:* `{}`
 × `{}` *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* `{}` *Cʜᴀᴛꜱ.*
@@ -114,7 +114,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="🌸Add Hinami to your group🌸", url="http://t.me/HinamiChanRobot?startgroup=true"),
+        InlineKeyboardButton(text="❤Add Hinami to your group❤", url="http://t.me/HinamiChanRobot?startgroup=true"),
     ],
 ]
 
