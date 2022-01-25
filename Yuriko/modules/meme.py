@@ -10,10 +10,10 @@ from telegram.utils.helpers import escape_markdown
 
 import Yuriko.modules.helper_funcs.fun_strings as fun
 from Yuriko import DEMONS, DRAGONS, dispatcher
-from Yuriko.modules.disable import DisableAbleMessageHandler
-from Yuriko.modules.disable import DisableAbleCommandHandler
-from Yuriko.modules.helper_funcs.alternate import typing_action
-from Yuriko.modules.helper_funcs.extraction import extract_user
+from Yuriko .modules.disable import DisableAbleMessageHandler
+from Yuriko .modules.disable import DisableAbleCommandHandler
+from Yuriko .modules.helper_funcs.alternate import typing_action
+from Yuriko .modules.helper_funcs.extraction import extract_user
 
 
 @run_async
