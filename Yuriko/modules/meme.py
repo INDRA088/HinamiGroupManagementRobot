@@ -8,12 +8,12 @@ from telegram.error import BadRequest
 from telegram.ext import CallbackContext, CommandHandler, Filters, run_async
 from telegram.utils.helpers import escape_markdown
 
-import Villain.modules.helper_funcs.fun_strings as fun
-from Villain import DEMONS, DRAGONS, dispatcher
-from Villain.modules.disable import DisableAbleMessageHandler
-from Villain.modules.disable import DisableAbleCommandHandler
-from Villain.modules.helper_funcs.alternate import typing_action
-from Villain.modules.helper_funcs.extraction import extract_user
+import Yuriko.modules.helper_funcs.fun_strings as fun
+from Yuriko import DEMONS, DRAGONS, dispatcher
+from Yuriko.modules.disable import DisableAbleMessageHandler
+from Yuriko.modules.disable import DisableAbleCommandHandler
+from Yuriko.modules.helper_funcs.alternate import typing_action
+from Yuriko.modules.helper_funcs.extraction import extract_user
 
 
 @run_async
