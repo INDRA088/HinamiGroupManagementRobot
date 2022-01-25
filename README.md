@@ -24,8 +24,15 @@ The easiest way to deploy this Bot is via Heroku.
 
 ## CREDIT
 ```
-BrayDen
-Blaze
-Shubhanshu
+BOTS- 
+Yuriko 
+Daisyx
+Nezuko Bot
+
+PEOPLE-
+Rdip
+DARKLEGEND088
+Rishisuperyo
+Akborana
 ```
 
