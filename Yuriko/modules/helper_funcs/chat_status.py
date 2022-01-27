@@ -139,7 +139,7 @@ def sudo_plus(func):
                 pass
         else:
             update.effective_message.reply_text(
-                "Bhai,Bhen jo bhi ho apke pass ye right na ha sorry aur so sameless you are saste admin  🙂 dil se bura laga support @DeeCodeBots",
+                "Bhai,Bhen jo bhi ho apke pass ye right na ha sorry aur so sameless you are saste admin  🙂 dil se bura laga support @HINAMIUPDATES",
             )
 
     return is_sudo_plus_func
@@ -202,7 +202,7 @@ def user_admin(func):
                 pass
         else:
             update.effective_message.reply_text(
-                "Bhai,Bhen jo bhi ho apke pass ye right na ha sorry aur so sameless you are saste admin  🙂 dil se bura laga support @DeeCodeBots",
+                "Bhai,Bhen jo bhi ho apke pass ye right na ha sorry aur so sameless you are saste admin  🙂 dil se bura laga support @HINAMIUPDATES",
             )
 
     return is_admin
