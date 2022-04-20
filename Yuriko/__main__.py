@@ -483,7 +483,7 @@ def yurikorobot_about_callback(update, context):
             f"\n*SETUP ASSISTANT*"
             f"\n\n✗ `1.) first, add me to your group.`"
             f"\n\n✗ `2.) then promote me as admin and give all permissions except anonymous admin.`"
-            f"\n\n✗ `3.) add` @ASSISTANTOFDARKVCPLAYER `to your group:`"
+            f"\n\n✗ `3.) add` @Hinami_Assistant `to your group:`"
             f"\n\n✗ `4.) turn on the video chat first before start to play music.`"
             f"\n\n✗ *Lets Enjoy The Hinami Music And Join Support Group @Hinami_Support*"
             f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ INDRA!*",
