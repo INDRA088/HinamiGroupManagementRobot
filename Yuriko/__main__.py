@@ -251,7 +251,7 @@ def start(update: Update, context: CallbackContext):
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="t.me/Hinami_Support")]]
+                [[InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url=*"t.me/Hinami_Support"*)]]
             ),
         )
         
